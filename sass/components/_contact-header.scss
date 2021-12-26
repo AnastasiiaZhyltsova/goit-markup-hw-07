@@ -33,11 +33,12 @@
     fill: getColor("accent");
   }
 }
+
 .contacts-header__icon {
   width: 16px;
   height: 12px;
 
   margin-right: 10px;
 
-  fill: getColor("secondary-text");
+  fill: currentColor;
 }
